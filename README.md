@@ -1,0 +1,2 @@
+# fatiProjectA
+Inner ear segmentation
