@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib_seg_Topo.a  CMakeFiles/_seg_Topo.dir/_seg_Topo.cpp.o
+/usr/bin/ranlib lib_seg_Topo.a

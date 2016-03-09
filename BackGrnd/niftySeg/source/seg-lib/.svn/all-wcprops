@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/niftyseg/!svn/ver/51/seg-lib
+END
+_seg_EM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/niftyseg/!svn/ver/69/seg-lib/_seg_EM.cpp
+END
+_seg_matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/3/seg-lib/_seg_matrix.cpp
+END
+_seg_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/niftyseg/!svn/ver/69/seg-lib/_seg_tools.h
+END
+_seg_BiasCorrection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_BiasCorrection.cpp
+END
+_seg_EM.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_EM.h
+END
+_seg_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_matrix.h
+END
+_seg_BiasCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_BiasCorrection.h
+END
+_seg_FMM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/niftyseg/!svn/ver/68/seg-lib/_seg_FMM.cpp
+END
+_seg_LoAd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_LoAd.cpp
+END
+_seg_Topo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_Topo.cpp
+END
+_seg_LabFusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/niftyseg/!svn/ver/70/seg-lib/_seg_LabFusion.cpp
+END
+_seg_FMM.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_FMM.h
+END
+_seg_LoAd.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/niftyseg/!svn/ver/3/seg-lib/_seg_LoAd.h
+END
+_seg_MRF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_MRF.cpp
+END
+_seg_Topo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_Topo.h
+END
+_seg_LabFusion.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/niftyseg/!svn/ver/54/seg-lib/_seg_LabFusion.h
+END
+_seg_MRF.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_MRF.h
+END
+_seg_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/niftyseg/!svn/ver/43/seg-lib/_seg_common.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/40/seg-lib/CMakeLists.txt
+END
+_seg_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/69/seg-lib/_seg_tools.cpp
+END

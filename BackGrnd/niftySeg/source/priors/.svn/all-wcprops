@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/niftyseg/!svn/ver/12/priors
+END
+DGM_prior.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/3/priors/DGM_prior.nii.gz
+END
+Cerebelum.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/niftyseg/!svn/ver/12/priors/Cerebelum.nii.gz
+END
+T1.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/niftyseg/!svn/ver/3/priors/T1.nii.gz
+END
+ECSF_prior.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/niftyseg/!svn/ver/3/priors/ECSF_prior.nii.gz
+END
+WM_prior.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/niftyseg/!svn/ver/3/priors/WM_prior.nii.gz
+END
+ICSF_prior.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/niftyseg/!svn/ver/3/priors/ICSF_prior.nii.gz
+END
+CGM_prior.nii.gz
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/3/priors/CGM_prior.nii.gz
+END

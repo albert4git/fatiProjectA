@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib_seg_BiasCorrection.a  CMakeFiles/_seg_BiasCorrection.dir/_seg_BiasCorrection.cpp.o
+/usr/bin/ranlib lib_seg_BiasCorrection.a

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/niftyseg/!svn/ver/45/nifti
+END
+nifti1.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/nifti/nifti1.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/niftyseg/!svn/ver/3/nifti/LICENSE
+END
+nifti1_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/niftyseg/!svn/ver/3/nifti/nifti1_io.c
+END
+nifti1_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/niftyseg/!svn/ver/3/nifti/nifti1_io.h
+END
+znzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/nifti/znzlib.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/niftyseg/!svn/ver/45/nifti/CMakeLists.txt
+END
+znzlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/nifti/znzlib.h
+END
