@@ -1,0 +1,15 @@
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_BiasCorrection.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_EM.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_FMM.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_LabFusion.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_LoAd.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_MRF.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_Topo.dir
+/home/fati/Downloads/niftyseg/build/nifti/CMakeFiles/_seg_nifti.dir
+/home/fati/Downloads/niftyseg/build/seg-lib/CMakeFiles/_seg_tools.dir
+/home/fati/Downloads/niftyseg/build/seg-apps/CMakeFiles/seg_EM.dir
+/home/fati/Downloads/niftyseg/build/seg-apps/CMakeFiles/seg_LabFusion.dir
+/home/fati/Downloads/niftyseg/build/seg-apps/CMakeFiles/seg_LoAd.dir
+/home/fati/Downloads/niftyseg/build/seg-apps/CMakeFiles/seg_maths.dir
+/home/fati/Downloads/niftyseg/build/seg-apps/CMakeFiles/seg_stats.dir
+/home/fati/Downloads/niftyseg/build/zlib/CMakeFiles/z.dir

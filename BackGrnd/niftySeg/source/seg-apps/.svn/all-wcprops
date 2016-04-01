@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/niftyseg/!svn/ver/53/seg-apps
+END
+seg_EM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/niftyseg/!svn/ver/69/seg-apps/seg_EM.cpp
+END
+seg_LabFusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/niftyseg/!svn/ver/70/seg-apps/seg_LabFusion.cpp
+END
+seg_maths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/69/seg-apps/seg_maths.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/niftyseg/!svn/ver/69/seg-apps/CMakeLists.txt
+END
+seg_Stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/niftyseg/!svn/ver/69/seg-apps/seg_Stats.cpp
+END
+seg_LoAd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/niftyseg/!svn/ver/43/seg-apps/seg_LoAd.cpp
+END

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall    CMakeFiles/seg_LabFusion.dir/seg_LabFusion.cpp.o  -o seg_LabFusion -rdynamic ../seg-lib/lib_seg_LabFusion.a ../seg-lib/lib_seg_tools.a ../seg-lib/lib_seg_Topo.a ../seg-lib/lib_seg_MRF.a ../seg-lib/lib_seg_FMM.a ../seg-lib/lib_seg_BiasCorrection.a ../nifti/lib_seg_nifti.a ../zlib/libz.a 

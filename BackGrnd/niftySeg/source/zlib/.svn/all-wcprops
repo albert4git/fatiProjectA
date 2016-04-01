@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/niftyseg/!svn/ver/45/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/niftyseg/!svn/ver/3/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/niftyseg/!svn/ver/3/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/niftyseg/!svn/ver/3/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/crc32.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/niftyseg/!svn/ver/3/zlib/README
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/niftyseg/!svn/ver/3/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/niftyseg/!svn/ver/3/zlib/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/zconf.h
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/niftyseg/!svn/ver/3/zlib/FAQ
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/niftyseg/!svn/ver/3/zlib/minigzip.c
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/niftyseg/!svn/ver/3/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/niftyseg/!svn/ver/3/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/adler32.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/niftyseg/!svn/ver/45/zlib/CMakeLists.txt
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/niftyseg/!svn/ver/3/zlib/infback.c
+END
