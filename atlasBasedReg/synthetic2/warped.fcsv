@@ -1,0 +1,22 @@
+# Fiducial List file c:/nadya/work/synthetic/warped.fcsv
+# version = 2
+# name = plastimatch-fiducials
+# numPoints = 4
+# symbolScale = 5
+# symbolType = 12
+# visibility = 1
+# textScale = 4.5
+# color = 0.4,1,1
+# selectedColor = 1,0.5,0.5
+# opacity = 1
+# ambient = 0
+# diffuse = 1
+# specular = 0
+# power = 1
+# locked = 0
+# numberingScheme = 0
+# columns = label,x,y,z,sel,vis
+p-000,-107.183914,-109.463364,154.560745,1,1
+p-001,-148.223083,-108.817581,154.563248,1,1
+p-002,-106.803001,-150.132965,154.612213,1,1
+p-003,-150.013977,-150.208237,154.599350,1,1
